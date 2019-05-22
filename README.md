@@ -1,8 +1,8 @@
 # Introduction to Machine Learning on IBM Watson Studio
 
 ## Slides
-[AI/ML with IBM Watson Studio - Online](https://slides.com/upkar/ai-ml-watson)
-[AI/ML with IBM Watson Studio - PDF](assets/ai-ml-watson.pdf)
+- [AI/ML with IBM Watson Studio - Online](https://slides.com/upkar/ai-ml-watson)
+- [AI/ML with IBM Watson Studio - PDF](assets/ai-ml-watson.pdf)
 
 ## prerequisites to start the work
 1. IBM Cloud Sign up [Use this link to sign into your account if you already have one] : <https://bit.ly/waston-ml-sign>
