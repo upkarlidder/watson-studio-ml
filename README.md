@@ -1,16 +1,13 @@
 # Introduction to Machine Learning on IBM Watson Studio
 
 ## Slides
-[Apache CouchDB / Cloudant Slides](https://slides.com/upkar/apache-couchdb-cloudant)
+[AI/ML with IBM Watson Studio](https://slides.com/upkar/ai-ml-watson)
 
 ## prerequisites to start the work
 1. IBM Cloud Sign up [Use this link to sign into your account if you already have one] : <https://bit.ly/waston-ml-sign>
-2. Create a `Machine Learning` service on IBM Cloud.
-3. Create a `Watson Studio` service on IBM Cloud.
 
-### Create a `Machine Learning` service on IBM Cloud.
 
-### Create a `Watson Studio` service on IBM Cloud.
+
 
 ## Event Description
 RSVP on Crowdcast NOW!
